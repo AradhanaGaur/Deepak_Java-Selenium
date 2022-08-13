@@ -7,6 +7,7 @@ public class Student {
     public void admissionOpen()
     {
     	System.out.println("Admission open till 31 Aug");
+	    System.out.println("Admission open till 23 Aug");
     }
     public void admissionclosed()
     {
